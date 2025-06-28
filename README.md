@@ -1,1 +1,3 @@
-# gpar-process-paper
+# GPAR(1) Process and It's Application on AQI Data of Kolkata
+
+Markov chains are a widely used method for modeling categorical time series such as daily air quality index (AQI) in categorical scale. However, a major limitation with the Markovian models is that the number of parameters increases exponentially with the order of the Markov chain. To address this issue, we propose a generalized Pegram’s operator-based autoregressive (PAR) process that incorporates general kernel functions, resulting in significantly reduction in the number of parameters required. We study the distributional properties and the h-step ahead forecasting capabilities of the proposed process in detail. Simulation experiments are performed to study the consistency and evaluate its performance. Finally, we demonstrate the practical applicability of the method using a real-world dataset on air quality from Kolkata city.
